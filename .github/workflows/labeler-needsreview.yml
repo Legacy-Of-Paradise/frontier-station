@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions-ecosystem/action-add-labels@v1
       with:
-        labels: "Требуется проверка"
+        labels: "Статус: Требуется проверка"
     - uses: actions-ecosystem/action-remove-labels@v1
       with:
-        labels: "Ожидание изменений"
+        labels: "Статус: Ожидание изменений"
