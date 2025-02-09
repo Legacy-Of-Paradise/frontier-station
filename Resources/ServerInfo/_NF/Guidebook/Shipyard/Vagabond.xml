@@ -1,57 +1,57 @@
 <Document>
-  # VAGABOND-CLASS CARGO SHUTTLE
+  # VAGABOND-ШАТТЛ КЛАССА СНАБЖЕНИЯ
   <Box>
   <GuideEntityEmbed Entity="MiningDrill"/>
   <GuideEntityEmbed Entity="OreProcessor"/>
-  <GuideEntityEmbed Entity="CrateTradeSecureNormal" Caption="trading crate"/>
+  <GuideEntityEmbed Entity="CrateTradeSecureНетrmal" Caption="trading crate"/>
   <GuideEntityEmbed Entity="CrateTradeSecureHigh" Caption="trading crate"/>
   </Box>  
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapVagabond" Caption=""/>
   </Box>
-    [color=#a4885c]Ship Size:[/color] Medium
+    [color=#a4885c]Размер судна:[/color] Средний
 	
-	[color=#a4885c]Recommended Crew:[/color] 2-4
+	[color=#a4885c]Рекомендуемый экипаж:[/color] 2-4
 	
-	[color=#a4885c]Power Gen Type:[/color] Plasma
+	[color=#a4885c]Тип генератора энергии:[/color] Плазма
 	
-	[color=#a4885c]Expeditions:[/color] None
+	[color=#a4885c]Экспедиции:[/color] Нет
 	
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]Консоль идентификации:[/color] Нет
 	
-  "An adaptable long-haul industrial freighter that pilots have adapted to many different purposes."
+  "An adaptable long-haul industrial freighter that Пилотs have adapted to many different purposes."
   
-  # PREFLIGHT CHECKLIST
+  # ПРЕДПОЛЁТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
   
-  ## 1. Power supply
+  ## 1. Источник питания
   
-  ## 1.1. Battery units
+  ## 1.1. Аккумуляторные блоки
   <Box>
   <GuideEntityEmbed Entity="SMESBasic"/>
   <GuideEntityEmbed Entity="SubstationBasic"/>
-  <GuideEntityEmbed Entity="APCBasic"/>
+  <GuideEntityEmbed Entity="ЛКПBasic"/>
   </Box>
   
-  - Check that the SMES unit is anchored to the floor.
-  - Check that the substation unit is anchored to the floor.
-  - Check that the APC unit's Main Breaker is toggled on.
-  - Check the APC unit's current Load* (W).
+  - Убедитесь, что модуль СМЭС надежно закреплен на полу.
+  - Убедитесь, что подстанция надежно закреплена на полу.
+  - Убедитесь, что главный ЛКП включен.
+  - Проверьте текущую нагрузку блока ЛКП* (Вт).
   
-  ## 1.2. P.A.C.M.A.N. generator unit
+  ## 1.2. Генераторны  П.А.К.М.А.Н.
   <Box>
   <GuideEntityEmbed Entity="PortableGeneratorPacmanShuttle"/>
-  <GuideEntityEmbed Entity="SheetPlasma"/>
+  <GuideEntityEmbed Entity="SheetПлазма"/>
   </Box>
   
-  - Check that P.A.C.M.A.N. generator units are anchored to the floor.
-  - Check that P.A.C.M.A.N. generator units are fueled. For extended flights make sure that you have enough fuel stockpiled to sustain prolonged power generation.
-  - Check that P.A.C.M.A.N. generator units are set to HV output.
-  - Set Target Power to 13** [bold]kW[/bold] on each generator unit.
-  - Start P.A.C.M.A.N. generator units.
+  - Убедитесь, что Генераторны  П.А.К.М.А.Н. надежно закреплены на полу.
+  - Убедитесь, что Генераторны  П.А.К.М.А.Н заправлены. При длительных полетах убедитесь, что у вас достаточно топлива для обеспечения длительной выработки электроэнергии.
+  - Убедитесь, что Генераторны  П.А.К.М.А.Н. настроены на высоковольтный выход.
+  - Установите целевую мощность на 13** [bold]кВ[/bold] на каждом генераторе
+  - Запустите Генераторны  П.А.К.М.А.Н.
   
-  ## 2. Atmospherics
+  ## 2. Атмосфера
   
-  ## 2.1. Distribution Loop
+  ## 2.1. Распределительный контур
   <Box>
   <GuideEntityEmbed Entity="OxygenCanister"/>
   <GuideEntityEmbed Entity="NitrogenCanister"/>
@@ -60,37 +60,36 @@
   <GuideEntityEmbed Entity="GasPressurePump"/>
   </Box>
   
-  - Check that the O2 canister is anchored to connector port.
-  - Check that the N2 canister is anchored to connector port.
-  - Check that the gas mixer is set to the correct mixing ratio (21% Oxygen, 79% Nitrogen).
-  - Check that the gas mixer is set to 101kPa.
-  - Enable gas mixer.
+  - Убедитесь, что баллон с O2 надежно закреплен на порту
+  - Убедитесь, что баллон с N2 надежно закреплен на порту
+  - Убедитесь, что газовый смеситель настроен на правильное соотношение компонентов (21% кислорода, 79% азота).
+  - Убедитесь, что газовый смеситель настроен на давление 101 кПа.
+  - Включите газовый смеситель.
   
-  ## 2.2. Waste Loop
+  ## 2.2. Выпускной контур
   <Box>
   <GuideEntityEmbed Entity="GasPressurePump"/>
   <GuideEntityEmbed Entity="AirAlarm"/>
   </Box>
     
-  - Enable waste loop pump.
-  - Disable Auto Mode on the Air Alarm in the Engine Room.
-  - Set the Air Alarm in the Engine Room to Filtering (Wide).
+  - Включите насос выпускного контура.
+  - Установите воздушную сигнализацию в машинном отделении на фильтрующую (широкую).
   
-  ## 3. Other checks
+  ## 3. Другие проверки
   <Box>
   <GuideEntityEmbed Entity="Gyroscope"/>
   <GuideEntityEmbed Entity="GravityGeneratorMini"/>
   <GuideEntityEmbed Entity="BlastDoor"/>
   </Box>
   
-  - Check that the gyroscope is anchored, powered, and enabled.
-  - Check that the mini gravity generator is anchored, powered, and enabled.
-  - Check that the bow blast doors are closed.
+  - Убедитесь, что гироскоп закреплен, подключен к сети и включен.
+  - Убедитесь, что мини-гравитационный генератор закреплен, запитан и включен.
+  - Проверте  противопожарные шлюзы на закрытие.
   
-  ## Sidenotes
+  ## Рекомендации опытных пилотов
   
-  * - Vagabond-class cargo ships are equipped with five APC units that can be used to appraise the ship's total power consumption. Unmodifued Vagabond-class ship requires 24.6 kW of power to remain operational.
+  * - Vagabond-class cargo ships are equipped with five ЛКП units that can be used to appraise the ship's total power consumption. Unmodifued Vagabond-class ship requires 24.6 кВ of power to remain operational.
   
-  ** - Vagabond-class cargo ships have higher power demand than single standard P.A.C.M.A.N. generator unit can provide at optimal settings, however the ship comes equipped with two P.A.C.M.A.N. generator units, recommended target power output for each P.A.C.M.A.N. generator unit is 13 kW.
+  ** - Vagabond-class cargo ships have higher power demand than single standard Генераторны  П.А.К.М.А.Н. can provide at optimal settings, however the ship comes equipped with two Генераторны  П.А.К.М.А.Н.ы, recommended target power output for each Генераторны  П.А.К.М.А.Н. is 13 кВ.
 
 </Document>
