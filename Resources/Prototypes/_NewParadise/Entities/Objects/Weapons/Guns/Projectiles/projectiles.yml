@@ -102,31 +102,31 @@
     stunAmount: 3
     knockdownAmount: 4
 
-- type: entity
-  id: LPPBulletCutter
-  name: Cutter bolt
-  parent: BaseBullet
-  categories: [ HideSpawnMenu ]
-  description: Not too bad, but you still don't want to get hit by it.
-  components:
-  - type: Reflective
-    reflective:
-    - NonEnergy
-  - type: Sprite
-    noRot: false
-    sprite: Objects/Weapons/Guns/Projectiles/projectiles.rsi
-    layers:
-    - state: scatterlaser
-      shader: unshaded
-  - type: GatheringProjectile
-  - type: Projectile
-    deleteOnCollide: false
-    damage:
-      types:
-        Blunt: 0.5
-  # Короткий срок пули
-  - type: TimedDespawn
-    lifetime: 0.2
+# - type: entity
+#   id: LPPBulletCutter
+#   name: Cutter bolt
+#   parent: BaseBullet
+#   categories: [ HideSpawnMenu ]
+#   description: Not too bad, but you still don't want to get hit by it.
+#   components:
+#   - type: Reflective
+#     reflective:
+#     - NonEnergy
+#   - type: Sprite
+#     noRot: false
+#     sprite: Objects/Weapons/Guns/Projectiles/projectiles.rsi
+#     layers:
+#     - state: scatterlaser
+#       shader: unshaded
+#   - type: GatheringProjectile
+#   - type: Projectile
+#     deleteOnCollide: false
+#     damage:
+#       types:
+#         Blunt: 0.5
+#   # Короткий срок пули
+#   - type: TimedDespawn
+#     lifetime: 0.2
 
 - type: hitscan
   id: LPPRedMediumLightLaser
