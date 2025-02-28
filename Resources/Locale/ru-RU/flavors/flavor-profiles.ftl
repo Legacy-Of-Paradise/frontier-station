@@ -115,6 +115,7 @@ flavor-complex-tomato = как помидоры
 flavor-complex-corn = как кукуруза
 flavor-complex-banana = как бананы
 flavor-complex-apple = как яблоки
+flavor-complex-pear = как груши
 flavor-complex-cotton = как хлопок
 flavor-complex-bungo = как тропическая сладость
 flavor-complex-raisins = как сушёный виноград
