@@ -1,193 +1,193 @@
 <Document>
   # Военно-космические силы Синдиката
-  
+
   На отдаленной периферии Spinward существует коалиция корпоративных образований, объединившихся против NanoTrasen
   Несколько десятилетий назад появилась тайная сила, известная как синдикат Spinward, которой руководит Cybersun Industries. Это разнообразная коалиция групп, объединенных в решимости бросить вызов доминированию Nanotrasen. Объединенное военно-космические подразделение Синдиката (SUN), состоящее в основном из мародеров Горлекса, несет ответственность за подрыв усилий NanoTrasen в Пограничном секторе.
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # Известные виды
   # "Матрос синдиката"
-  
+
   Самый младший по званию в военно-космических силах Синдиката. Ваш обычный "Помощник на месте", когда дело доходит до выполнения черной работы.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalDeckhиA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalDeckhиVoid"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)[bold][color=#a4885c]*[/color][/bold]
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 16 [color=yellow]Пронзающий[/color] (.35)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 30%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%; [color=yellow]Взрыв[/color] 10% (бронежилет)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Вайпер)
-  
+
   [bold][color=#a4885c]*[/color][/bold] - [italic]среднестатистический человек может бегать со скоростью 4,5 м/с и ходить со скоростью 2,5 м/с.[/italic]
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Инженер синдиката"
-  
+
   На шаттле у инженера есть неприятная обязанность - следить за тем, чтобы абсолютно все работало правильно. Шаттлы Синдиката ничем не отличаются от других.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalEngineerA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalEngineerVoid"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 10 [color=yellow]Пронзающий[/color] (дробь)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 30%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%; [color=yellow]Взрыв[/color] 10% (бронежилет)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (дробовик)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Саботажник синдиката"
-  
+
   Специалист, обученный искусству подрыва космических шаттлов и объектов. Вооруженный электромагнитными снарядами (ЭМП), будьте осторожны.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalSaboteurA"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 0; Электромагнитные разряды (разряжает батареи)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 30%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%; [color=yellow]Взрыв[/color] 10% (бронежилет)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Вайпер)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Медик синдиката"
-  
+
   Специалист в области медицины. Знает, как гуманно обращаться с пациентами и как бесчеловечно обращаться с заключенными. Использует дротики, начиненные вредными химическими веществами - импедрезином или хлоралгидратом.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalMedicA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalMedicVoid"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 6 [color=yellow]Пронзающий[/color], 6 [color=lime]Яд[/color] (syndicate dart)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color] 20%; [color=red]Режущий[/color] 15%; [color=yellow]Пронзающий[/color] 35%; [color=orange]Ожоги[/color] 15%; [color=orange]Кислотный[/color] 25% (бронированный медицинский халат)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Дротик)
-  
+
   <GuideReagentEmbed Reagent="Impedrezene"/>
   <GuideReagentEmbed Reagent="ChloralHydrate"/>
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Оперативник синдиката"
-  
+
   "Для тебя все гвозди, если у тебя есть молоток". В данном случае все становится мишенью, потому что у него есть пистолет-пулемет, и палец чешется нажать на спусковой крючок.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalOperatorA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalOperatorVoid"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 16 [color=yellow]Пронзающий[/color] (.35)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color] и [color=red]Режущий[/color] 10%; [color=yellow]Пронзающий[/color] 60%; [color=orange]Ожоги[/color] 10%; [color=yellow]Взрыв[/color] 20% (пуленепробиваемый жилет)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (пистолет-пулемет)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Гренадер синдиката"
-  
+
   "Хм? Говорите громче! Я вас не слышу!" Гренадеры, оснащенные печально известным "Чайналейк", обладают огромной разрушительной силой и должны стать приоритетными целями.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalGrenadierA"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] разнообразный [color=yellow]Взрыв[/color]
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 10%; [color=orange]Ожоги[/color] 25%; [color=yellow]Взрыв[/color] 85% (костюм от взрывов синдиката)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Чайналейк)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Химический воитель синдиката"
-  
+
   Неся в руках емкости, наполненные опасными химикатами, химики-воины атакуют своих врагов ядовитыми спреями.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalChemwarriorA"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] разнообразный
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] нет
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (распылитель)
-  
-  
+
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalChemwarriorB"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] разнообразный
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=yellow]Пронзающий[/color] 60%; [color=orange]Ожоги[/color] 40%; [color=yellow]Кислотный[/color] 60% (биокостюм синдиката)
   - [bold][color=#a4885c]Уязвим к урону:[/color][/bold] [color=red]Режущий[/color] 20%; [color=yellow]Взрыв[/color] 40%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (распылитель)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Второй офицер синдиката"
-  
-  Наделённый властью капитана, ему поручено передавать приказы капитана экипажу и следить за их оперативным выполнением. Для самообороны имеет при себе лазерный пистолет.
-  
+
+  Наделенный властью капитана, ему поручено передавать приказы капитана экипажу и следить за их оперативным выполнением. Для самообороны имеет при себе лазерный пистолет.
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalSecondOfficerA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalSecondOfficerVoid"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 17 [color=orange]Ожоги[/color] (усовершенствованный лазерный пистолет)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 30%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%; [color=yellow]Взрыв[/color] 10% (бронежилет)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (усовершенствованный лазерный пистолет)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Капитан синдиката"
 
   Рука синдиката, получающая прямые приказы от верхушки. Капитаны синдиката следит за тем, чтобы операции на борту проходили гладко. Оснащен револьвером "Магнум".
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalCaptainA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalCaptainVoid"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 35 [color=yellow]Пронзающий[/color] (.45)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color], [color=yellow]Пронзающий[/color] и [color=orange]Ожоги[/color] 30%;  [color=orange]Кислотный[/color] 25%; [color=yellow]Взрыв[/color] 10% (бронированный пальто синдиката)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Питон)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Связист синдиката"
-  
-  Этот офицер, линия связи Синдиката, несет полную ответственность за её работу. Неважно кто ты - Агент или Оперативник. Ты с ним знаком. Вооружен штурмовой винтовкой и хорошо бронирован.
-  
+
+  Этот офицер, линия связи Синдиката, несет полную ответственность за ее работу. Неважно кто ты - Агент или Оперативник. Ты с ним знаком. Вооружен штурмовой винтовкой и хорошо бронирован.
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalCommиerA"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 35 [color=yellow]Пронзающий[/color] (.30)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color], [color=yellow]Пронзающий[/color] 40%; [color=orange]Ожоги[/color] 80%; [color=orange]Кислотный[/color] 50%; [color=lime]Радиация[/color] 99%; [color=yellow]Взрыв[/color] 80% (элитный бронекостюм синдиката)
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (АКМС)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # Цели миссии
   ## Устранение
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalCommиerA"/>
   </Box>
   Уничтожьте крупное и опасное существо - [color=#a4885c]Связиста синдиката[/color] в течение заданного срока, для получения денежного вознаграждение.
-  
+
   ## Уничтожить объект
   <Box>
   <GuideEntityEmbed Entity="CybersunDataMiner"/>

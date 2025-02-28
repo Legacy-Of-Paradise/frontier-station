@@ -1,137 +1,137 @@
 <Document>
   # Наемники
-  
+
   Наемники, мерки, солдаты удачи, наемный стрелок, песы войны. [italic]Возможно[/italic] профессиональные солдаты, преданность которых можно купить: они выполнят любое задание, если им хорошо заплатят. Многие корпорации часто предпочитают наемников в качестве сомнительного актива для тайных операций.
 
   Наемники, с которыми вы столкнетесь, были оплачены неизвестными внешними корпорациями и подлежат уничтожению.
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # Известные виды
   # "Наемные солдаты"
-  
+
   Солдаты низкого ранга, вооруженные остатками оружия, со склада.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierKnife" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)[bold][color=#a4885c]*[/color][/bold]
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 8 [color=red]Режущий[/color], 2 [color=yellow]Пронзающий[/color] (топорик)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
-  
+
   [bold][color=#a4885c]*[/color][/bold] - [italic]среднестатистический человек может бегать со скоростью 4,5 м/с и ходить со скоростью 2,5 м/с.[/italic]
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierPistol" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 16 [color=yellow]Пронзающий[/color] (.35)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (MK58)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierNovalite" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 17 [color=yellow]Пронзающий[/color] (.20 round)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Novalite C1)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Наёмники-штурмовики"
-  
+
+  # "Наемники-штурмовики"
+
   Штурмовики, специализирующиеся на использовании элемента неожиданности - быстрых, агрессивных действиях для достижения своих целей.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryBreacherмачете" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)[bold]
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 15 [color=red]Режущий[/color] (мачете)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] нет
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierRevolver" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 17 [color=yellow]Пронзающий[/color] (.20)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (парные револьверы "Ардженти")
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryBreacherдробовик" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 10 [color=yellow]Пронзающий[/color] (картридж для дробовика)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (дробовик)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Наёмники специального назначения"
-  
+
+  # "Наемники специального назначения"
+
   Опытные наемники, специалисты, имеющие опыт работы в боевых действиях или на вспомогательных должностях, а возможно, и в том, и в другом.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySpecialistMedic"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 14 [color=orange]Ожоги[/color] (Старомодный лазерный пистолет); 5 [color=red]Тупой[/color], 5 [color=red]Режущий[/color], 5 [color=yellow]Пронзающий[/color] (циркулярная пила)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Старомодный лазерный пистолет)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySpecialistAssault"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 14 [color=orange]Ожоги[/color] (Старомодный лазерный пистолет); 5 [color=red]Тупой[/color], 5 [color=red]Режущий[/color], 5 [color=yellow]Пронзающий[/color] (циркулярная пила)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (Старомодный лазерный пистолет)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Капитан наемников"
-  
+
   Предводитель команды, капитан наемников, одновременно жесток и смертельно эффективен. Будьте осторожны.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryCaptain"/>
   </Box>
-  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мёртв)
+  - [bold][color=#a4885c]Здоровьеs:[/color][/bold] 100 (Критическое состояние), 130 (мертв)
   - [bold][color=#a4885c]Скорость передвижения:[/color][/bold] 4.5 м/с (2.5 м/с)
   - [bold][color=#a4885c]Урон (Тип):[/color][/bold] 35 [color=yellow]Пронзающий[/color] (.45)
   - [bold][color=#a4885c]Сопротивлению урону:[/color][/bold] [color=red]Тупой[/color], [color=red]Режущий[/color] и [color=yellow]Пронзающий[/color] 25%; [color=orange]Ожоги[/color] 20%; [color=orange]Кислотный[/color] 10%
   - [bold][color=#a4885c]Особые способности:[/color][/bold] Стрелок (N2524)
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # Цели миссии
   ## Устранение
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryCaptain"/>
   </Box>
   Уничтожьте крупное и опасное существо - [color=#a4885c]Капитан наемников[/color] в течение заданного срока, для получения денежного вознаграждение.
-  
+
   ## Уничтожить объект
   <Box>
   <GuideEntityEmbed Entity="MercenaryCounterfeitCache"/>

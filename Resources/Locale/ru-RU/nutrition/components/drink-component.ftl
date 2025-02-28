@@ -15,8 +15,8 @@ drink-component-try-use-drink-cannot-drink = Вы не можете ничего
 drink-component-try-use-drink-had-enough = Вы не можете выпить больше!
 drink-component-try-use-drink-cannot-drink-other = Они не могут ничего пить!
 drink-component-try-use-drink-had-enough-other = Они не могут выпить больше!
-drink-component-try-use-drink-success-slurp = Сёрб
-drink-component-try-use-drink-success-slurp-taste = Сёрб. { $flavors }
+drink-component-try-use-drink-success-slurp = Серб
+drink-component-try-use-drink-success-slurp-taste = Серб. { $flavors }
 drink-component-force-feed = { CAPITALIZE($user) } пытается вас чем-то напоить!
 drink-component-force-feed-success =
     { CAPITALIZE($user) } { GENDER($user) ->

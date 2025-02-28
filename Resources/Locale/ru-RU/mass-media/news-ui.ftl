@@ -29,7 +29,7 @@ news-write-ui-footer-text = Система управления новостям
 news-write-ui-new-article = Новая статья
 news-write-ui-article-name-label = Заголовок:
 news-write-no-access-popup = Нет доступа
-news-writer-text-length-exceeded = Текст превышает максимальный объём
+news-writer-text-length-exceeded = Текст превышает максимальный объем
 news-write-ui-richtext-tooltip =
     Новостные статьи поддерживают формат Rich Text
     Поддерживаются следующие теги Rich Text:

@@ -18,5 +18,5 @@ ent-PresentRandomCoal = { ent-PresentBase }
 ent-PresentRandomCash = { ent-PresentBase }
     .suffix = Заполненный, Деньги
     .desc = { ent-PresentBase.desc }
-ent-PresentTrash = обёрточная бумага
+ent-PresentTrash = оберточная бумага
     .desc = Аккуратно сложенная, заклеенная и завязанная бантиком. Затем торжественно разорванная на части и выброшенная.

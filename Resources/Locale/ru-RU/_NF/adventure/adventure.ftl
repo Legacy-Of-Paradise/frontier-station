@@ -1,8 +1,8 @@
 ## UI
 
 adventure-list-start = [color=gold]Галактический банк НаноТрайзен[/color]
-adventure-list-profit = общий счёт дохода [color=#d19e5e]{ $amount }[/color].
-adventure-list-loss = общиё счёт расходов [color=#659cc9]{ $amount }[/color].
+adventure-list-profit = общий счет дохода [color=#d19e5e]{ $amount }[/color].
+adventure-list-loss = общие счет расходов [color=#659cc9]{ $amount }[/color].
 adventure-webhook-list-start = Галактический банк НаноТрайзен
 adventure-webhook-list-high = Топ самых доходных:
 adventure-webhook-list-low = Топ самых расходных:
@@ -27,5 +27,5 @@ shuttle-ftl-too-many = Слишком много шаттлов уже в экс
 changelog-tab-title-Upstream = Апстрим чейнжлог
 multiauth-already-connected = Уже подключен к серверу.
 public-transit-shuttle-name = Космическая маршрутка
-public-transit-departure = Отправление в { $destination }. Приблизительное время полёта: { $flytime } секунд.
+public-transit-departure = Отправление в { $destination }. Приблизительное время полета: { $flytime } секунд.
 public-transit-arrival = Спасибо что выбираете общественный транспорт от НаноТрайзен. { $destination } отправление через { $waittime } секунд.

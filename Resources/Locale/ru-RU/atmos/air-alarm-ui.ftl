@@ -48,7 +48,7 @@ air-alarm-ui-vent-internal-bound-label = Внутренняя граница
 ### Scrubbers
 
 air-alarm-ui-scrubber-pump-direction-label = Направление
-air-alarm-ui-scrubber-volume-rate-label = Объём (Л)
+air-alarm-ui-scrubber-volume-rate-label = Объем (Л)
 air-alarm-ui-scrubber-wide-net-label = ШирокаяСеть
 
 ### Thresholds

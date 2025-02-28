@@ -21,14 +21,14 @@
 
   [color=#a4885c]Консоль идентификации:[/color] Нет
 
-  [color=#a4885c]Доступные роли:[/color] Подрядчик, Пилот, Наёмник
+  [color=#a4885c]Доступные роли:[/color] Подрядчик, Пилот, Наемник
 
   "A Средний full-feature botanical research biodome equipped to help a botanist fully interact with their plants in almost any way conceivable."
 
-  # ПРЕДПОЛЁТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
-  
+  # ПРЕДПОЛЕТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
+
   ## 1. Источник питания
-  
+
   ## 1.1. Аккумуляторные блоки
   <Box>
   <GuideEntityEmbed Entity="SMESBasic"/>
@@ -95,7 +95,7 @@
   - Set the Gas Filter labelled "Waste" to the waste gas you wish to store.
   - Enable the volumetric gas pump labelled "Waste".
   - Monitor contents of storage canister. Replace storage canister as necessary.
-  
+
    To correct cabin O2-N2 overpressure:
    - Ensure distro O2 and N2 canisters have capacity.
    - Ensure air alarm in overpressured area has Auto mode enabled.

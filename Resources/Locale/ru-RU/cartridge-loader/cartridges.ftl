@@ -19,7 +19,7 @@ astro-nav-program-name = АстроНав
 med-tek-program-name = МедТек
 # Wanted list cartridge
 wanted-list-program-name = Список разыскиваемых
-wanted-list-label-no-records = Всё спокойно, ковбой.
+wanted-list-label-no-records = Все спокойно, ковбой.
 wanted-list-search-placeholder = Поиск по имени и статусу
 wanted-list-age-label = [color=darkgray]Возраст:[/color] [color=white]{ $age }[/color]
 wanted-list-job-label = [color=darkgray]Должность:[/color] [color=white]{ $job }[/color]
@@ -33,8 +33,8 @@ wanted-list-status-label = [color=darkgray]статус:[/color] { $status ->
         [suspected] [color=yellow]подозревается[/color]
         [wanted] [color=red]разыскивается[/color]
         [detained] [color=#b18644]под арестом[/color]
-        [paroled] [color=green]освобождён по УДО[/color]
-        [discharged] [color=green]освобождён[/color]
+        [paroled] [color=green]освобожден по УДО[/color]
+        [discharged] [color=green]освобожден[/color]
        *[other] нет
     }
 wanted-list-history-table-time-col = Время

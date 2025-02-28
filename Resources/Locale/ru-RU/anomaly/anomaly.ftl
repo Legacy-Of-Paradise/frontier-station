@@ -1,6 +1,6 @@
 anomaly-component-contact-damage = Аномалия сдирает с вас кожу!
 anomaly-vessel-component-anomaly-assigned = Аномалия присвоена сосуду.
-anomaly-vessel-component-not-assigned = Этому сосуду не присвоена ни одна аномалия. Попробуйте использовать на нём сканер.
+anomaly-vessel-component-not-assigned = Этому сосуду не присвоена ни одна аномалия. Попробуйте использовать на нем сканер.
 anomaly-vessel-component-assigned = Этому сосуду уже присвоена аномалия.
 anomaly-vessel-component-upgrade-output = точка вывода
 anomaly-particles-delta = Дельта-частицы
@@ -50,8 +50,8 @@ anomaly-gorilla-charge-infinite = Осталось [color=gold]бесконеч�
 anomaly-sync-connected = Аномалия успешно привязана
 anomaly-sync-disconnected = Соединение с аномалией было потеряно!
 anomaly-sync-no-anomaly = Отсутствует аномалия в пределах диапазона.
-anomaly-sync-examine-connected = Он [color=darkgreen]присоединён[/color] к аномалии.
-anomaly-sync-examine-not-connected = Он [color=darkred]не присоединён[/color] к аномалии.
+anomaly-sync-examine-connected = Он [color=darkgreen]присоединен[/color] к аномалии.
+anomaly-sync-examine-not-connected = Он [color=darkred]не присоединен[/color] к аномалии.
 anomaly-sync-connect-verb-text = Присоединить аномалию
 anomaly-sync-connect-verb-message = Присоединить близлежащую аномалию к { $machine }.
 anomaly-generator-ui-title = генератор аномалий

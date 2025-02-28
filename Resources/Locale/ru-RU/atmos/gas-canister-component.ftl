@@ -4,7 +4,7 @@
 
 gas-canister-bound-user-interface-title = Газовый баллон
 # Popup
-gas-canister-popup-denied = Доступ запрещён
+gas-canister-popup-denied = Доступ запрещен
 
 # window
 

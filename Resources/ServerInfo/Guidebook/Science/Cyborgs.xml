@@ -23,7 +23,7 @@
   <Box>
     <GuideEntityEmbed Entity="BorgChassisGeneric" Caption="Стандартный"/>
     <GuideEntityEmbed Entity="BorgChassisEngineer" Caption="Инженер"/>
-    <GuideEntityEmbed Entity="BorgChassisMining" Caption="Шахтёр"/>
+    <GuideEntityEmbed Entity="BorgChassisMining" Caption="Шахтер"/>
     <GuideEntityEmbed Entity="BorgChassisJanitor" Caption="Уборщик"/>
     <GuideEntityEmbed Entity="BorgChassisService" Caption="Сервис"/>
     <GuideEntityEmbed Entity="BorgChassisMedical" Caption="Врач"/>
@@ -49,11 +49,11 @@
     [italic]Примеры базовых модулей[/italic]
   </Box>
 
-  Для более специфических нужд существуют [color=#a4885c]специализированные[/color] модули, предоставляющие такие возможности, как сканирование аномалий, возведение стен, реанимация членов экипажа или уборка пролитой космической смазки. Эти модули обычно окрашены в ту же палитру, что и отдел [italic](или профессия)[/italic], к которому они относятся. Эти модули [italic](за исключением [color=#D381C9]научных[/color] модулей, которые могут быть установлены на любое шасси)[/italic] могут быть установлены только на соответствующее шасси борга. [bold]В специализированные шасси боргов, такие как инженерное, уборщицкое, сервисное, медицинское и шахтёрское шасси, можно установить до 4 модулей.[/bold]
+  Для более специфических нужд существуют [color=#a4885c]специализированные[/color] модули, предоставляющие такие возможности, как сканирование аномалий, возведение стен, реанимация членов экипажа или уборка пролитой космической смазки. Эти модули обычно окрашены в ту же палитру, что и отдел [italic](или профессия)[/italic], к которому они относятся. Эти модули [italic](за исключением [color=#D381C9]научных[/color] модулей, которые могут быть установлены на любое шасси)[/italic] могут быть установлены только на соответствующее шасси борга. [bold]В специализированные шасси боргов, такие как инженерное, уборщицкое, сервисное, медицинское и шахтерское шасси, можно установить до 4 модулей.[/bold]
   <Box>
     <GuideEntityEmbed Entity="BorgModuleAnomaly" Caption="Аномальный"/>
     <GuideEntityEmbed Entity="BorgModuleRCD" Caption="РСУ"/>
-    <GuideEntityEmbed Entity="BorgModuleMining" Caption="Шахтёрский"/>
+    <GuideEntityEmbed Entity="BorgModuleMining" Caption="Шахтерский"/>
     <GuideEntityEmbed Entity="BorgModuleCleaning" Caption="Чистящий"/>
     <GuideEntityEmbed Entity="BorgModuleService" Caption="Сервисный"/>
     <GuideEntityEmbed Entity="BorgModuleTreatment" Caption="Лечащий"/>
@@ -61,6 +61,6 @@
   <Box>
     [italic]Примеры специализированных модулей. Обратите внимание на цвета корпуса и печатной платы.
   </Box>
-  Дополнительные модули с расширенными или новыми возможностями могут быть получены благодаря изучению учёными новых [textlink="технологий" link="Technologies"].
+  Дополнительные модули с расширенными или новыми возможностями могут быть получены благодаря изучению учеными новых [textlink="технологий" link="Technologies"].
 </Document>
 

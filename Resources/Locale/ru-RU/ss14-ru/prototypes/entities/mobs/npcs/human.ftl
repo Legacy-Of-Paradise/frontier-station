@@ -10,6 +10,6 @@ ent-MobSyndicateFootsoldierPilot = пилот шаттла Синдиката
     .desc = { ent-MobSyndicateFootsoldier.desc }
 ent-SalvageHumanCorpse = неопознанный труп
     .desc = Я думаю, оно мертво.
-    .suffix = Мёртвый
+    .suffix = Мертвый
 ent-MobCluwne = существо
     .desc = Полиморфированное несчастье.

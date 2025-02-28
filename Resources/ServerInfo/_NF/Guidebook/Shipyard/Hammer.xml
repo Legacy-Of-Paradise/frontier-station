@@ -1,5 +1,5 @@
 <Document>
-  # HAMMER-ШАТТЛ ИНЖЕНЕРНОГО КЛАССА 
+  # HAMMER-ШАТТЛ ИНЖЕНЕРНОГО КЛАССА
   <Box>
   <GuideEntityEmbed Entity="Screwdriver"/>
   <GuideEntityEmbed Entity="Wrench"/>
@@ -20,7 +20,7 @@
 
   [italic]Представлено вам компанией BlueBird Starship Design & Construction.[/italic]
 
-  # ПРЕДПОЛЁТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
+  # ПРЕДПОЛЕТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
 
   ## 1. Источник питания
 

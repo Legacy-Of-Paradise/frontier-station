@@ -15,7 +15,7 @@ shipyard-console-no-bank = Банковский счет не найден.
 shipyard-console-no-deed = Документа на судно не обнаружено.
 shipyard-console-sale-reqs = Корабль должен быть пришвартован и весь экипаж высадится.
 shipyard-console-sale-not-docked = Корабль должен быть пришвартован.
-shipyard-console-sale-organic-aboard = Весь экипаж должен высадиться. { $name } всё ещё на борту.
+shipyard-console-sale-organic-aboard = Весь экипаж должен высадиться. { $name } все еще на борту.
 # This error message is bad, but if it happens, something awful's happened.
 shipyard-console-sale-invalid-ship = Корабль недействителен и не может быть продан.
 shipyard-console-sale-unknown-reason = Корабль не может быть продан: { reason }

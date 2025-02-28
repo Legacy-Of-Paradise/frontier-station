@@ -1,1 +1,1 @@
-research-technology-syringe-gun = Шприцемёт
+research-technology-syringe-gun = Шприцемет

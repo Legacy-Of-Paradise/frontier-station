@@ -1,5 +1,5 @@
 ent-WeaponTurretSyndicateBroken = сломанная баллистическая турель
-    .desc = Автоматическая турель с баллистическим пулемётом.
+    .desc = Автоматическая турель с баллистическим пулеметом.
 ent-BaseWeaponTurret = баллистическая турель
     .desc = { ent-BaseStructure.desc }
 ent-WeaponTurretSyndicate = { ent-BaseWeaponTurret }

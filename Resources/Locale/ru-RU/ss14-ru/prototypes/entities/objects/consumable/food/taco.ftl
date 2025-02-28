@@ -1,4 +1,4 @@
-ent-FoodTacoShell = лепёшка тако
+ent-FoodTacoShell = лепешка тако
     .desc = Оболочка для тако, которую удобно держать. Падает на бок, если положить.
 ent-FoodTacoBase = { ent-FoodInjectableBase }
     .desc = { ent-FoodInjectableBase.desc }
@@ -14,5 +14,5 @@ ent-FoodTacoBeefSupreme = говяжье тако суприм
     .desc = Это как обычное тако с говядиной, только круче!
 ent-FoodTacoChickenSupreme = куриное тако суприм
     .desc = Это как обычное тако с курицей, только круче!
-ent-FoodMealSoftTaco = мягкая лепёшка тако
+ent-FoodMealSoftTaco = мягкая лепешка тако
     .desc = Попробуйте кусочек!

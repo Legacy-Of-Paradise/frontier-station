@@ -1,5 +1,5 @@
 <Document>
-    # APOTHECARY-ШАТТЛ КЛАССА МЕДИЦИНСКИЙ 
+    # APOTHECARY-ШАТТЛ КЛАССА МЕДИЦИНСКИЙ
     <Box>
       <GuideEntityEmbed Entity="ComputerCrewMonitoring"/>
       <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
@@ -10,7 +10,7 @@
     <Box>
     <GuideEntityEmbed Entity="ShuttleMapApothecary" Caption=""/>
     </Box>
-  
+
     [color=#a4885c]Размер судна:[/color] Малое
 
     [color=#a4885c]Рекомендуемый экипаж:[/color] 1-3
@@ -23,7 +23,7 @@
 
     "A modest chemistry lab and medical support vessel designed to provide support deep space colonization, mining and xeНет exploration efforts. Deployed by the Far Star Biotech company, the Apothecary is the definitive aid and health craft for rock hoppers and xeНет biologists."
 
-    # ПРЕДПОЛЁТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
+    # ПРЕДПОЛЕТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
 
     ## 1. Источник питания
 

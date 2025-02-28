@@ -7,5 +7,5 @@ udder-system-verb-milk = Доить
 udder-system-examine-overfed = { CAPITALIZE(SUBJECT($entity)) } выглядит наевшейся!
 udder-system-examine-okay = { CAPITALIZE(SUBJECT($entity)) } выглядит сытой.
 udder-system-examine-hungry = { CAPITALIZE(SUBJECT($entity)) } выглядит голодной.
-udder-system-examine-starved = { CAPITALIZE(SUBJECT($entity)) } выглядит истощённо!
+udder-system-examine-starved = { CAPITALIZE(SUBJECT($entity)) } выглядит истощенно!
 udder-system-examine-none = { CAPITALIZE(SUBJECT($entity)) } кажется, не голодает.

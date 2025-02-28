@@ -21,55 +21,55 @@
 
   "Корабль доставщик, построенный для McCargo"
 
-  # ПРЕДПОЛЁТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
-  
+  # ПРЕДПОЛЕТНАЯ ПРОВЕРКА ОБОРУДОВАНИЯ
+
   ## 1. Источник питания
-  
+
   ## 1.1. Аккумуляторные блоки
   <Box>
   <GuideEntityEmbed Entity="SubstationWallBasic"/>
   <GuideEntityEmbed Entity="ЛКПBasic"/>
   </Box>
-  
+
   - Убедитесь, что главный ЛКП включен.
   - Проверьте текущую нагрузку на ЛКП* (Вт).
-  
+
   ## 1.2. Генераторны  П.А.К.М.А.Н.
   <Box>
   <GuideEntityEmbed Entity="PortableGeneratorJrPacmanShuttle"/>
   <GuideEntityEmbed Entity="yCan"/>
   </Box>
-  
+
   - Проверте the Генераторны  П.А.К.М.А.Н. Прикручены к полу
   - Проверте the Генераторны  П.А.К.М.А.Н. есть топливо. При длительных полетах убедитесь, что у вас достаточно топлива, чтобы обеспечить длительную выработку электроэнергии во время полета.
   - Проверте the Генераторны  П.А.К.М.А.Н. is set to LV output.
   - Установите целевую мощность на 5** [bold]кВ[/bold].
   - Запустите the Генераторны  П.А.К.М.А.Н..
-  
+
   ## 2. Атмосфера
-  
+
   ## 2.1. Распределительный контур
   <Box>
   <GuideEntityEmbed Entity="AirCanister"/>
   <GuideEntityEmbed Entity="GasPort"/>
   </Box>
-  
+
   - Проверте что канистра прикреплена к порту.
-  
+
   ## 2.2. Выпускной контур
   <Box>
   <GuideEntityEmbed Entity="GasPressurePump"/>
   <GuideEntityEmbed Entity="AirAlarm"/>
   </Box>
-    
+
   - Убедитесь, что насос выходного контура включен.
-  
+
   ## 3. Другие проверки
   <Box>
   <GuideEntityEmbed Entity="МалоеGyroscope"/>
   <GuideEntityEmbed Entity="GravityGeneratorMini"/>
   </Box>
-  
+
   - Убедитесь, что гироскоп закреплен, подключен к сети и включен.
   - Убедитесь, что мини-гравитационный генератор закреплен, запитан и включен.
 

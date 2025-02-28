@@ -1,7 +1,7 @@
 # Market console computer
 market-console-menu-title = Терминал доступа к рынку
 market-item-title = Предмет
-market-all = Всё
+market-all = Все
 market-purchase = Покупка
 market-quantity-title = Качество
 market-quantity-available = $1 доступен

@@ -1,10 +1,10 @@
-ent-GlowstickBase = зелёный химсвет
+ent-GlowstickBase = зеленый химсвет
     .desc = Полезен для неразберихи и экстренных случаев.
 ent-GlowstickRed = красный химсвет
     .desc = { ent-GlowstickBase.desc }
 ent-GlowstickPurple = фиолетовый химсвет
     .desc = { ent-GlowstickBase.desc }
-ent-GlowstickYellow = жёлтый химсвет
+ent-GlowstickYellow = желтый химсвет
     .desc = { ent-GlowstickBase.desc }
 ent-GlowstickBlue = синий химсвет
     .desc = { ent-GlowstickBase.desc }

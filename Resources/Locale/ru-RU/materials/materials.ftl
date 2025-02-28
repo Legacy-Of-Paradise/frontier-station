@@ -20,11 +20,11 @@ materials-paper = бумага
 materials-uranium = уран
 materials-bananium = бананиум
 materials-meat = мясо
-materials-web = шёлк
+materials-web = шелк
 materials-bones = кости
 materials-coal = уголь
 materials-diamond = алмазы
-materials-gunpowder = чёрный порох
+materials-gunpowder = черный порох
 # Ores
 materials-raw-iron = руда железа
 materials-raw-quartz = руда кварца

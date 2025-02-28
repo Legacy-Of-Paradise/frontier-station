@@ -10,7 +10,7 @@ seeds-avocado-name = Авокадо
 seeds-avocado-display-name = Семена авокадо
 seeds-cucumber-name = Огурец
 seeds-cucumber-display-name = Семена огурцов
-seeds-bees-name = Пчёлы
+seeds-bees-name = Пчелы
 seeds-bees-display-name = Соты
 # Should be in seed-component
 botany-seed-jar-name = Банка с { $seedName } { $seedNoun }

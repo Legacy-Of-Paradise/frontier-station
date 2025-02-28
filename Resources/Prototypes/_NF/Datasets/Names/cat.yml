@@ -1,7 +1,7 @@
 - type: dataset
   id: names_cat_cappy
   values:
-  - Колпачёк
+  - Колпачек
 
 - type: dataset
   id: names_cat_clugg
@@ -329,7 +329,7 @@
   - Затмение
   - Туман
   - Эспрессо
-  - Уголёк
+  - Уголек
   - Спууууки
   - Кобальт
   - Головастик

@@ -8,7 +8,7 @@ cargo-console-menu-shuttle-name-none-text = Нет
 cargo-console-menu-points-label = Кредиты:{ " " }
 cargo-console-menu-shuttle-status-label = Статус шаттла:{ " " }
 cargo-console-menu-shuttle-status-away-text = Отбыл
-cargo-console-menu-order-capacity-label = Объём заказов:{ " " }
+cargo-console-menu-order-capacity-label = Объем заказов:{ " " }
 cargo-console-menu-call-shuttle-button = Активировать телепад
 cargo-console-menu-permissions-button = Доступы
 cargo-console-menu-categories-label = Категории:{ " " }
@@ -21,7 +21,7 @@ cargo-console-menu-populate-orders-cargo-order-row-product-name-text = { $produc
 cargo-console-menu-cargo-order-row-approve-button = Одобрить
 cargo-console-menu-cargo-order-row-cancel-button = Отменить
 # Orders
-cargo-console-order-not-allowed = Доступ запрещён
+cargo-console-order-not-allowed = Доступ запрещен
 cargo-console-station-not-found = Нет доступной станции
 cargo-console-invalid-product = Неверный ID продукта
 cargo-console-too-many = Слишком много одобренных заказов

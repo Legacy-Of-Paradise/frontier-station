@@ -12,7 +12,7 @@ accent-words-nfsd-cat-2 = Муррздорова.
 accent-words-nfsd-cat-3 = Примяу.
 accent-words-nfsd-cat-4 = Шшшшш!
 accent-words-nfsd-cat-5 = Мрррау.
-accent-words-nfsd-cat-6 = Чё комммур?
+accent-words-nfsd-cat-6 = Че комммур?
 accent-words-nfsd-cat-7 = Муааау.
 # Mistake cat accent
 accent-words-mistake-cat-1 = Мувдя.

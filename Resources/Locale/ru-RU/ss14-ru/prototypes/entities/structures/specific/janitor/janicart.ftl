@@ -1,5 +1,5 @@
 ent-MopBucket = ведро для швабры
-    .desc = Содержит воду и слёзы уборщика.
+    .desc = Содержит воду и слезы уборщика.
 ent-MopBucketFull = ведро для швабры
     .suffix = Полный
     .desc = { ent-MopBucket.desc }

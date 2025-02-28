@@ -1,4 +1,4 @@
-ent-ClothingUnderSocksBee = носки с пчёлами
+ent-ClothingUnderSocksBee = носки с пчелами
     .desc = Заставь их гудеть!
 ent-ClothingUnderSocksCoder = носки для программистов
-    .desc = Пришло время кодить, сёстры!!11!
+    .desc = Пришло время кодить, сестры!!11!

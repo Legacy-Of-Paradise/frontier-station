@@ -2,13 +2,13 @@
 
 wieldable-verb-text-wield = Взять в руки
 wieldable-verb-text-unwield = Взять в руку
-wieldable-component-successful-wield = Вы берёте { $item } в две руки.
-wieldable-component-failed-wield = Вы берёте { $item } в одну руку.
-wieldable-component-successful-wield-other = { $user } берёт { $item } в две руки.
-wieldable-component-failed-wield-other = { $user } берёт { $item } в одну руку.
+wieldable-component-successful-wield = Вы берете { $item } в две руки.
+wieldable-component-failed-wield = Вы берете { $item } в одну руку.
+wieldable-component-successful-wield-other = { $user } берет { $item } в две руки.
+wieldable-component-failed-wield-other = { $user } берет { $item } в одну руку.
 wieldable-component-no-hands = Вам не хватает рук!
 wieldable-component-not-enough-free-hands =
-    Чтобы использовать { $item } вам понадобится ещё { $number } { $number ->
+    Чтобы использовать { $item } вам понадобится еще { $number } { $number ->
         [one] свободная рука
         [few] свободные руки
        *[other] свободных рук
