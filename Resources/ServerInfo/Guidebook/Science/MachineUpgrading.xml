@@ -18,7 +18,6 @@ Parts of higher levels can be researched as well as found through artifacts or s
 <GuideEntityEmbed Entity="SuperMatterBinStockPart"/>
 <GuideEntityEmbed Entity="BluespaceMatterBinStockPart"/>
 </Box>
-Machine Parts can be used to create many machines.
 
 ## Upgrading
 To know if a machine can be upgraded, you can examine it and check for the [color=#a4885c]lightning bolt[/color] icon in the lower right corner. Clicking on it will allow you to see what kinds of upgrades the machine has.
@@ -27,6 +26,7 @@ To check what parts a machine needs, you can examine its board. Try it here:
 <Box Orientation="Vertical">
 <GuideEntityEmbed Entity="ProtolatheMachineCircuitboard"/>
 <GuideEntityEmbed Entity="CloningPodMachineCircuitboard"/>
+<GuideEntityEmbed Entity="TraversalDistorterMachineCircuitboard"/>
 <GuideEntityEmbed Entity="ThermomachineFreezerMachineCircuitBoard"/>
 </Box>
 You can use any rating part for any part requirement. Using higher rated parts will increase how effective the machine is.
